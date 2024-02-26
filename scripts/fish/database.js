@@ -197,6 +197,29 @@ const database = {
             tip: "Consistently monitor and maintain the water temperature within the ideal range for your fish species. Invest in a reliable aquarium heater and thermometer to ensure the water stays within the recommended temperature range, providing a comfortable and stable environment for your fish."
         }
 
+    ],
+
+    locations: [
+        {
+            id: 1,
+            country: "Australia",
+            reef: "Great Barrier Reef"
+        },
+        {
+            id: 2,
+            country: "Indonesia",
+            reef: "Coral Triangle"
+        },
+        {
+            id: 3,
+            country: "Egypt",
+            reef: "Ras Mohammed National Park"
+        },
+        {
+            id: 4,
+            country: "Belize",
+            reef: "Belize Barrier Reef"
+        }
     ]
 }
 
@@ -206,4 +229,8 @@ export const getFish = () => {
 
 export const getTips = () => {
     return database.tipList.map(tipList => ({...tipList}))
+}
+
+export const getLocations = () => {
+    return database.locations.map(locations => ({...locations}))
 }

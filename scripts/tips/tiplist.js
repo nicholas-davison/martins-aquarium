@@ -1,4 +1,4 @@
-import { getTips} from './fish/database.js'
+import { getTips} from '../fish/database.js'
 
 const allTips = getTips()
 
