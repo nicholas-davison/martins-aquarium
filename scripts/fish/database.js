@@ -29,7 +29,7 @@ const database = {
         },
         {
             id: 4,
-            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-J5TAzH3MxSIVtmqKPIxteFORHI5M0RGH8eaRrcb2MBIX59YreGzcuwkKJGRqM45yAuU&usqp=CAU",
+            image: "https://upload.wikimedia.org/wikipedia/commons/1/13/Paletten-Doktorfisch_M%C3%BCnster.JPG",
             Species: "Blue Tang",
             Length: 7,
             Name: "Dory",
@@ -38,7 +38,7 @@ const database = {
         },
         {
             id: 5,
-            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-J5TAzH3MxSIVtmqKPIxteFORHI5M0RGH8eaRrcb2MBIX59YreGzcuwkKJGRqM45yAuU&usqp=CAU",
+            image: "https://www.swellpets.co.uk/wp-content/uploads/shutterstock_259307114-scaled-1-990x660.jpg",
             Species: "Discus",
             Length: 6,
             Name: "Disco",
@@ -47,7 +47,7 @@ const database = {
         },
         {
             id: 6,
-            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-J5TAzH3MxSIVtmqKPIxteFORHI5M0RGH8eaRrcb2MBIX59YreGzcuwkKJGRqM45yAuU&usqp=CAU",
+            image: "https://encrypted-tbn2.gstatic.com/licensed-image?q=tbn:ANd9GcS--yakoZyoS4JcpwJmnvf7hjylqOdaA7fRQQ2cH2lqFeGN446X4xBujFMNaCWRLOebs18jsOlcGuT79UY",
             Species: "Guppy",
             Length: 2,
             Name: "Bubbles",
@@ -56,7 +56,7 @@ const database = {
         },
         {
             id: 7,
-            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-J5TAzH3MxSIVtmqKPIxteFORHI5M0RGH8eaRrcb2MBIX59YreGzcuwkKJGRqM45yAuU&usqp=CAU",
+            image: "https://www.liveaquaria.com/images/categories/large/lg_77633_Moorish_Idol.jpg",
             Species: "Moorish Idol",
             Length: 8,
             Name: "Mojo",
@@ -65,7 +65,7 @@ const database = {
         },
         {
             id: 8,
-            image: "",
+            image: "https://encrypted-tbn3.gstatic.com/licensed-image?q=tbn:ANd9GcTMwzp9pkPQ2Lme5L9E5XleodrQWomUcoV29MYGAEggLtofNrDWUW1FvKuLQrEaSzUENOGtgxVO1DxKnR4",
             Species: "Tetra",
             Length: 1,
             Name: "Tetris",
@@ -74,7 +74,7 @@ const database = {
         },
         {
             id: 9,
-            image: "",
+            image: "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTpO56Jqyk44Eg_kASQypOnrm8uwIZdK_l9RyTAhtGhKUSYKm8m41zFaJXEkDwshYNifrBzsw",
             Species: "Zebra Danio",
             Length: 2,
             Name: "Ziggy",
@@ -83,7 +83,7 @@ const database = {
         },
         {
             id: 10,
-            image: "",
+            image: "https://encrypted-tbn1.gstatic.com/licensed-image?q=tbn:ANd9GcRmdYwhqIEQRs-SnHTh0HMHkZtyjx_07DJkIJGU7HJNnBOpmA53XqA1SPpPFKXn7F59cHwyaJYkz14T9Co",
             Species: "Cichlid",
             Length: 5,
             Name: "Rocky",
@@ -92,7 +92,7 @@ const database = {
         },
         {
             id: 11,
-            image: "",
+            image: "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRFTxHH9PpUJlY0PiImUV9hrgU8Ts_Bp7nS0oMfSxW_qWBWKD6q",
             Species: "Cardinal Tetra",
             Length: 1,
             Name: "Cardy",
@@ -101,7 +101,7 @@ const database = {
         },
         {
             id: 12,
-            image: "",
+            image: "https://upload.wikimedia.org/wikipedia/commons/2/25/Synchiropus_splendidus_2_Luc_Viatour_cropped.png",
             Species: "Mandarinfish",
             Length: 4,
             Name: "Manny",
@@ -110,7 +110,7 @@ const database = {
         },
         {
             id: 13,
-            image: "",
+            image: "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR99bKCxdGOlNyAHDC95-IP75_cbsl5xHCKKnCwIDt7lfsJG2wk",
             Species: "Parrotfish",
             Length: 8,
             Name: "Polly",
@@ -119,7 +119,7 @@ const database = {
         },
         {
             id: 14,
-            image: "",
+            image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm9BUvodDZgw09bcdybHySTVPqbmXTaOca8NlLEWwAsww4U1L_",
             Species: "Rainbowfish",
             Length: 3,
             Name: "Rainy",
@@ -128,7 +128,7 @@ const database = {
         },
         {
             id: 15,
-            image: "",
+            image: "https://azgardens.com/wp-content/uploads/2017/06/Red-Velvet-Swordtail-Fish-in-a-Freshwater-Aquarium.jpg",
             Species: "Swordtail",
             Length: 4,
             Name: "Blade",
@@ -137,7 +137,7 @@ const database = {
         },
         {
             id: 16,
-            image: "",
+            image: "https://media-be.chewy.com/wp-content/uploads/CANS-tiger-barb-fish-1-1024x576.jpg",
             Species: "Tiger Barb",
             Length: 2,
             Name: "Stripes",
@@ -146,7 +146,7 @@ const database = {
         },
         {
             id: 17,
-            image: "",
+            image: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Picasso.triggerfish.arp.jpg",
             Species: "Triggerfish",
             Length: 9,
             Name: "Trigger",
@@ -155,7 +155,7 @@ const database = {
         },
         {
             id: 18,
-            image: "",
+            image: "https://www.thesprucepets.com/thmb/7YGQUU_FYAd2XCNmnW_9_jKcDZU=/5762x0/filters:no_upscale():strip_icc()/siamese-fighting-fish-bettas-1378308-hero-f459084da1414308accde7e21001906c.jpg",
             Species: "Betta",
             Length: 2,
             Name: "Rex",
@@ -164,7 +164,7 @@ const database = {
         },
         {
             id: 19,
-            image: "",
+            image: "https://i0.wp.com/nextaaqua.com/wp-content/uploads/2022/02/discus-fish-will-beatify-our-home.png",
             Species: "Discus",
             Length: 6,
             Name: "Discord",
@@ -173,7 +173,7 @@ const database = {
         },
         {
             id: 20,
-            image: "",
+            image: "https://image.petmd.com/files/styles/863x625/public/2022-09/koi.fish_.jpg",
             Species: "Koi",
             Length: 12,
             Name: "Kai",
